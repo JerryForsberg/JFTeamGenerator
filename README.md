@@ -17,4 +17,4 @@ Technologies used:
       - If the user enters y, they will be prompted with the questions again.
       - If the user enters n, the function will end and an html file containing all the team member information will be created.
      
-To watch a video on how the app functions, please use the following: [Team builder app](jfteamgenerator.netlify.app)
+To watch a video on how the app functions, please use the following: [Team builder app](http:jfteamgenerator.netlify.app)
